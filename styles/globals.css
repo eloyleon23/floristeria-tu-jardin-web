@@ -1,0 +1,136 @@
+/*
+ * Sistema de diseño de Floristería Tu Jardín.
+ * Valores medidos en la web original (ver AUDIT_WEB_ACTUAL.md §5).
+ * Regla: ningún color, fuente o medida de marca fuera de estos tokens.
+ */
+@import "tailwindcss";
+
+@theme {
+  /* Colores */
+  --color-brand: #c5246e;
+  --color-brand-dark: #a9296c;
+  --color-accent: #e4e19d;
+  --color-accent-dark: #d6d28d;
+  --color-mint: #70cda9;
+  --color-sky: #e7f3f6; /* fondo de testimonios */
+  --color-text: #212a40;
+  --color-heading: #283349;
+  --color-navy: #212a40;
+  --color-muted: #6d6a6a;
+  --color-background: #f8f8f8;
+  --color-surface: #ffffff;
+  --color-border: #e2e2e2;
+  --color-success: #11ac70;
+  --color-error: #c0392b; /* no existe en la web original; uso solo para validaciones */
+
+  /* Tipografías */
+  --font-display: "Fraunces Variable", Georgia, "Times New Roman", serif; /* sustituye a Recoleta (sin licencia web) */
+  --font-sans: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+
+  /* Escala tipográfica */
+  --text-hero: 98px;
+  --text-hero--line-height: 1.05;
+  --text-h1: 62px;
+  --text-h1--line-height: 1.1;
+  --text-h2: 58px;
+  --text-h2--line-height: 1.1;
+  --text-h3: 32px;
+  --text-h3--line-height: 1.2;
+  --text-h4: 24px;
+  --text-h4--line-height: 1.5;
+  --text-eyebrow: 12px;
+  --text-eyebrow--line-height: 2;
+  --text-body: 16px;
+  --text-body--line-height: 1.875;
+
+  --tracking-eyebrow: 0.1em;
+
+  /* Layout */
+  --container-site: 1300px;
+  --spacing-header: 160px;
+  --spacing-header-mobile: 70px;
+
+  /* 1025 px: menú de escritorio a partir de aquí (igual que el tema original).
+     En rem para que Tailwind lo ordene correctamente respecto a sm/md/lg. */
+  --breakpoint-desktop: 64.0625rem;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+  }
+  a {
+    transition: color 0.2s ease;
+  }
+}
+
+@layer components {
+  /* "Recoleta Black" → Fraunces negra con remates suaves */
+  .font-display-black {
+    font-family: var(--font-display);
+    font-weight: 800;
+    font-variation-settings:
+      "SOFT" 100,
+      "WONK" 0;
+    letter-spacing: -0.01em;
+  }
+  /* "Recoleta Alt" regular → Fraunces regular con remates suaves */
+  .font-display-regular {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-variation-settings:
+      "SOFT" 100,
+      "WONK" 0;
+  }
+  .eyebrow {
+    font-family: var(--font-sans);
+    font-size: var(--text-eyebrow);
+    line-height: var(--text-eyebrow--line-height);
+    font-weight: 500;
+    letter-spacing: var(--tracking-eyebrow);
+    text-transform: uppercase;
+    color: var(--color-brand);
+  }
+  .prose-legal h2 {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: var(--tracking-eyebrow);
+    text-transform: uppercase;
+    color: var(--color-heading);
+    margin: 2rem 0 0.75rem;
+  }
+  .prose-legal p,
+  .prose-legal li {
+    font-size: var(--text-body);
+    line-height: var(--text-body--line-height);
+    margin-bottom: 1rem;
+  }
+  .prose-legal ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+  }
+}
