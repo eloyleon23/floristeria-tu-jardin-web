@@ -1,0 +1,638 @@
+[
+  {
+    "slug": "ramos-novia",
+    "title": "Ramos de Novia",
+    "cover": {
+      "src": "/images/eventos/ramos-novia/portada.webp",
+      "thumb": "/images/eventos/ramos-novia/portada-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Ramos de Novia"
+    },
+    "order": 0,
+    "description": "Realizamos ramos de novia personalizados y únicos para cada cliente. Porque tu día es especial queremos que cada detalle también lo sea.",
+    "categories": [
+      "bodas",
+      "celebraciones"
+    ],
+    "gallery": [
+      {
+        "src": "/images/eventos/ramos-novia/01.webp",
+        "thumb": "/images/eventos/ramos-novia/01-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 1"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/02.webp",
+        "thumb": "/images/eventos/ramos-novia/02-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 2"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/03.webp",
+        "thumb": "/images/eventos/ramos-novia/03-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 3"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/04.webp",
+        "thumb": "/images/eventos/ramos-novia/04-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 4"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/05.webp",
+        "thumb": "/images/eventos/ramos-novia/05-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 5"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/06.webp",
+        "thumb": "/images/eventos/ramos-novia/06-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 6"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/07.webp",
+        "thumb": "/images/eventos/ramos-novia/07-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 7"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/08.webp",
+        "thumb": "/images/eventos/ramos-novia/08-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 8"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/09.webp",
+        "thumb": "/images/eventos/ramos-novia/09-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 9"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/10.webp",
+        "thumb": "/images/eventos/ramos-novia/10-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 10"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/11.webp",
+        "thumb": "/images/eventos/ramos-novia/11-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 11"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/12.webp",
+        "thumb": "/images/eventos/ramos-novia/12-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 12"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/13.webp",
+        "thumb": "/images/eventos/ramos-novia/13-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 13"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/14.webp",
+        "thumb": "/images/eventos/ramos-novia/14-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 14"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/15.webp",
+        "thumb": "/images/eventos/ramos-novia/15-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 15"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/16.webp",
+        "thumb": "/images/eventos/ramos-novia/16-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 16"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/17.webp",
+        "thumb": "/images/eventos/ramos-novia/17-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 17"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/18.webp",
+        "thumb": "/images/eventos/ramos-novia/18-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 18"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/19.webp",
+        "thumb": "/images/eventos/ramos-novia/19-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 19"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/20.webp",
+        "thumb": "/images/eventos/ramos-novia/20-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 20"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/21.webp",
+        "thumb": "/images/eventos/ramos-novia/21-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 21"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/22.webp",
+        "thumb": "/images/eventos/ramos-novia/22-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 22"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/23.webp",
+        "thumb": "/images/eventos/ramos-novia/23-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 23"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/24.webp",
+        "thumb": "/images/eventos/ramos-novia/24-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 24"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/25.webp",
+        "thumb": "/images/eventos/ramos-novia/25-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 25"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/26.webp",
+        "thumb": "/images/eventos/ramos-novia/26-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 26"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/27.webp",
+        "thumb": "/images/eventos/ramos-novia/27-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 27"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/28.webp",
+        "thumb": "/images/eventos/ramos-novia/28-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 28"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/29.webp",
+        "thumb": "/images/eventos/ramos-novia/29-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 29"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/30.webp",
+        "thumb": "/images/eventos/ramos-novia/30-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 30"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/31.webp",
+        "thumb": "/images/eventos/ramos-novia/31-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 31"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/32.webp",
+        "thumb": "/images/eventos/ramos-novia/32-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 32"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/33.webp",
+        "thumb": "/images/eventos/ramos-novia/33-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 33"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/34.webp",
+        "thumb": "/images/eventos/ramos-novia/34-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Ramos de Novia — foto 34"
+      },
+      {
+        "src": "/images/eventos/ramos-novia/35.webp",
+        "thumb": "/images/eventos/ramos-novia/35-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Ramos de Novia — foto 35"
+      }
+    ]
+  },
+  {
+    "slug": "decoracion-bodas",
+    "title": "Decoración Bodas",
+    "cover": {
+      "src": "/images/eventos/decoracion-bodas/portada.webp",
+      "thumb": "/images/eventos/decoracion-bodas/portada-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Decoración Bodas"
+    },
+    "order": 1,
+    "description": "Decoramos exteriores e interiores a tu gusto y con precios ajustados a cada cliente. Dinos lo que necesitas y nosotros nos encargamos.",
+    "categories": [
+      "bodas",
+      "celebraciones"
+    ],
+    "gallery": [
+      {
+        "src": "/images/eventos/decoracion-bodas/01.webp",
+        "thumb": "/images/eventos/decoracion-bodas/01-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 1"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/02.webp",
+        "thumb": "/images/eventos/decoracion-bodas/02-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 2"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/03.webp",
+        "thumb": "/images/eventos/decoracion-bodas/03-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 3"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/04.webp",
+        "thumb": "/images/eventos/decoracion-bodas/04-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 4"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/05.webp",
+        "thumb": "/images/eventos/decoracion-bodas/05-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 5"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/06.webp",
+        "thumb": "/images/eventos/decoracion-bodas/06-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 6"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/07.webp",
+        "thumb": "/images/eventos/decoracion-bodas/07-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 7"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/08.webp",
+        "thumb": "/images/eventos/decoracion-bodas/08-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 8"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/09.webp",
+        "thumb": "/images/eventos/decoracion-bodas/09-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 9"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/10.webp",
+        "thumb": "/images/eventos/decoracion-bodas/10-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 10"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/11.webp",
+        "thumb": "/images/eventos/decoracion-bodas/11-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 11"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/12.webp",
+        "thumb": "/images/eventos/decoracion-bodas/12-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 12"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/13.webp",
+        "thumb": "/images/eventos/decoracion-bodas/13-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 13"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/14.webp",
+        "thumb": "/images/eventos/decoracion-bodas/14-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 14"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/15.webp",
+        "thumb": "/images/eventos/decoracion-bodas/15-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 15"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/16.webp",
+        "thumb": "/images/eventos/decoracion-bodas/16-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 16"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/17.webp",
+        "thumb": "/images/eventos/decoracion-bodas/17-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 17"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/18.webp",
+        "thumb": "/images/eventos/decoracion-bodas/18-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 18"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/19.webp",
+        "thumb": "/images/eventos/decoracion-bodas/19-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 19"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/20.webp",
+        "thumb": "/images/eventos/decoracion-bodas/20-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 20"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/21.webp",
+        "thumb": "/images/eventos/decoracion-bodas/21-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Decoración Bodas — foto 21"
+      },
+      {
+        "src": "/images/eventos/decoracion-bodas/22.webp",
+        "thumb": "/images/eventos/decoracion-bodas/22-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Decoración Bodas — foto 22"
+      }
+    ]
+  },
+  {
+    "slug": "carnaval",
+    "title": "Carnaval",
+    "cover": {
+      "src": "/images/eventos/carnaval/portada.webp",
+      "thumb": "/images/eventos/carnaval/portada-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Carnaval"
+    },
+    "order": 2,
+    "description": "Participamos todos los años de manera muy activa en la fiesta local por excelencia. Durante años hemos realizado los adornos florales para las máscaras mayores.",
+    "categories": [
+      "carnaval",
+      "celebraciones"
+    ],
+    "gallery": [
+      {
+        "src": "/images/eventos/carnaval/01.webp",
+        "thumb": "/images/eventos/carnaval/01-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 1"
+      },
+      {
+        "src": "/images/eventos/carnaval/02.webp",
+        "thumb": "/images/eventos/carnaval/02-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 2"
+      },
+      {
+        "src": "/images/eventos/carnaval/03.webp",
+        "thumb": "/images/eventos/carnaval/03-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 3"
+      },
+      {
+        "src": "/images/eventos/carnaval/04.webp",
+        "thumb": "/images/eventos/carnaval/04-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 4"
+      },
+      {
+        "src": "/images/eventos/carnaval/05.webp",
+        "thumb": "/images/eventos/carnaval/05-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 5"
+      },
+      {
+        "src": "/images/eventos/carnaval/06.webp",
+        "thumb": "/images/eventos/carnaval/06-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 6"
+      },
+      {
+        "src": "/images/eventos/carnaval/07.webp",
+        "thumb": "/images/eventos/carnaval/07-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 7"
+      },
+      {
+        "src": "/images/eventos/carnaval/08.webp",
+        "thumb": "/images/eventos/carnaval/08-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Carnaval — foto 8"
+      }
+    ]
+  },
+  {
+    "slug": "diademas",
+    "title": "Diademas",
+    "cover": {
+      "src": "/images/eventos/diademas/portada.webp",
+      "thumb": "/images/eventos/diademas/portada-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Diademas"
+    },
+    "order": 3,
+    "description": "Se realizan diademas por encargo para todo tipo de eventos. Aquí os enseñamos unas muestra de nuestras creaciones",
+    "categories": [
+      "bautizos",
+      "bodas",
+      "celebraciones",
+      "comuniones"
+    ],
+    "gallery": [
+      {
+        "src": "/images/eventos/diademas/01.webp",
+        "thumb": "/images/eventos/diademas/01-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Diademas — foto 1"
+      },
+      {
+        "src": "/images/eventos/diademas/02.webp",
+        "thumb": "/images/eventos/diademas/02-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Diademas — foto 2"
+      },
+      {
+        "src": "/images/eventos/diademas/03.webp",
+        "thumb": "/images/eventos/diademas/03-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Diademas — foto 3"
+      },
+      {
+        "src": "/images/eventos/diademas/04.webp",
+        "thumb": "/images/eventos/diademas/04-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Diademas — foto 4"
+      },
+      {
+        "src": "/images/eventos/diademas/05.webp",
+        "thumb": "/images/eventos/diademas/05-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Diademas — foto 5"
+      },
+      {
+        "src": "/images/eventos/diademas/06.webp",
+        "thumb": "/images/eventos/diademas/06-sm.webp",
+        "width": 1200,
+        "height": 930,
+        "alt": "Diademas — foto 6"
+      }
+    ]
+  },
+  {
+    "slug": "semana-santa",
+    "title": "Semana Santa",
+    "cover": {
+      "src": "/images/eventos/semana-santa/portada.webp",
+      "thumb": "/images/eventos/semana-santa/portada-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Semana Santa"
+    },
+    "order": 4,
+    "description": "Durante años hemos participado en la decoración de los pasos de semana santa en la localidad. Experiencia y tradición para dar un resultado de calidad.",
+    "categories": [
+      "celebraciones",
+      "semana-santa"
+    ],
+    "gallery": [
+      {
+        "src": "/images/eventos/semana-santa/01.webp",
+        "thumb": "/images/eventos/semana-santa/01-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 1"
+      },
+      {
+        "src": "/images/eventos/semana-santa/02.webp",
+        "thumb": "/images/eventos/semana-santa/02-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 2"
+      },
+      {
+        "src": "/images/eventos/semana-santa/03.webp",
+        "thumb": "/images/eventos/semana-santa/03-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 3"
+      },
+      {
+        "src": "/images/eventos/semana-santa/04.webp",
+        "thumb": "/images/eventos/semana-santa/04-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 4"
+      },
+      {
+        "src": "/images/eventos/semana-santa/05.webp",
+        "thumb": "/images/eventos/semana-santa/05-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 5"
+      },
+      {
+        "src": "/images/eventos/semana-santa/06.webp",
+        "thumb": "/images/eventos/semana-santa/06-sm.webp",
+        "width": 930,
+        "height": 1200,
+        "alt": "Semana Santa — foto 6"
+      }
+    ]
+  }
+]

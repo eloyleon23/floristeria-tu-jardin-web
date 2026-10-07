@@ -1,0 +1,202 @@
+{
+  "nosotrosTienda": [
+    {
+      "src": "/images/nosotros/tienda-01.webp",
+      "thumb": "/images/nosotros/tienda-01-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 1"
+    },
+    {
+      "src": "/images/nosotros/tienda-02.webp",
+      "thumb": "/images/nosotros/tienda-02-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 2"
+    },
+    {
+      "src": "/images/nosotros/tienda-03.webp",
+      "thumb": "/images/nosotros/tienda-03-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 3"
+    },
+    {
+      "src": "/images/nosotros/tienda-04.webp",
+      "thumb": "/images/nosotros/tienda-04-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 4"
+    },
+    {
+      "src": "/images/nosotros/tienda-05.webp",
+      "thumb": "/images/nosotros/tienda-05-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 5"
+    },
+    {
+      "src": "/images/nosotros/tienda-06.webp",
+      "thumb": "/images/nosotros/tienda-06-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 6"
+    },
+    {
+      "src": "/images/nosotros/tienda-07.webp",
+      "thumb": "/images/nosotros/tienda-07-sm.webp",
+      "width": 1200,
+      "height": 930,
+      "alt": "Floristería Tu Jardín — foto 7"
+    },
+    {
+      "src": "/images/nosotros/tienda-08.webp",
+      "thumb": "/images/nosotros/tienda-08-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Floristería Tu Jardín — foto 8"
+    },
+    {
+      "src": "/images/nosotros/tienda-09.webp",
+      "thumb": "/images/nosotros/tienda-09-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Floristería Tu Jardín — foto 9"
+    },
+    {
+      "src": "/images/nosotros/tienda-10.webp",
+      "thumb": "/images/nosotros/tienda-10-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Floristería Tu Jardín — foto 10"
+    },
+    {
+      "src": "/images/nosotros/tienda-11.webp",
+      "thumb": "/images/nosotros/tienda-11-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Floristería Tu Jardín — foto 11"
+    },
+    {
+      "src": "/images/nosotros/tienda-12.webp",
+      "thumb": "/images/nosotros/tienda-12-sm.webp",
+      "width": 930,
+      "height": 1200,
+      "alt": "Floristería Tu Jardín — foto 12"
+    }
+  ],
+  "nosotrosFlores": [
+    {
+      "src": "/images/nosotros/flores-01.webp",
+      "thumb": "/images/nosotros/flores-01-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 1"
+    },
+    {
+      "src": "/images/nosotros/flores-02.webp",
+      "thumb": "/images/nosotros/flores-02-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 2"
+    },
+    {
+      "src": "/images/nosotros/flores-03.webp",
+      "thumb": "/images/nosotros/flores-03-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 3"
+    },
+    {
+      "src": "/images/nosotros/flores-04.webp",
+      "thumb": "/images/nosotros/flores-04-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 4"
+    },
+    {
+      "src": "/images/nosotros/flores-05.webp",
+      "thumb": "/images/nosotros/flores-05-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 5"
+    },
+    {
+      "src": "/images/nosotros/flores-06.webp",
+      "thumb": "/images/nosotros/flores-06-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 6"
+    },
+    {
+      "src": "/images/nosotros/flores-07.webp",
+      "thumb": "/images/nosotros/flores-07-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 7"
+    },
+    {
+      "src": "/images/nosotros/flores-08.webp",
+      "thumb": "/images/nosotros/flores-08-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 8"
+    },
+    {
+      "src": "/images/nosotros/flores-09.webp",
+      "thumb": "/images/nosotros/flores-09-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 9"
+    },
+    {
+      "src": "/images/nosotros/flores-10.webp",
+      "thumb": "/images/nosotros/flores-10-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 10"
+    },
+    {
+      "src": "/images/nosotros/flores-11.webp",
+      "thumb": "/images/nosotros/flores-11-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 11"
+    },
+    {
+      "src": "/images/nosotros/flores-12.webp",
+      "thumb": "/images/nosotros/flores-12-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 12"
+    },
+    {
+      "src": "/images/nosotros/flores-13.webp",
+      "thumb": "/images/nosotros/flores-13-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 13"
+    },
+    {
+      "src": "/images/nosotros/flores-14.webp",
+      "thumb": "/images/nosotros/flores-14-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 14"
+    },
+    {
+      "src": "/images/nosotros/flores-15.webp",
+      "thumb": "/images/nosotros/flores-15-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 15"
+    },
+    {
+      "src": "/images/nosotros/flores-16.webp",
+      "thumb": "/images/nosotros/flores-16-sm.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Flores de Tu Jardín — foto 16"
+    }
+  ]
+}

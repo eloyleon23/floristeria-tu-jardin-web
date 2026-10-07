@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "ocasiones",
+    "name": "Ocasiones",
+    "menuName": "Ocasiones",
+    "parent": null,
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 0,
+    "path": "/product-category/ocasiones/"
+  },
+  {
+    "slug": "navidad",
+    "name": "Navidad",
+    "menuName": "Navidad",
+    "parent": "ocasiones",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 1,
+    "path": "/product-category/ocasiones/navidad/"
+  },
+  {
+    "slug": "regalo",
+    "name": "Regalo",
+    "menuName": "Regalo",
+    "parent": "ocasiones",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 2,
+    "path": "/product-category/ocasiones/regalo/"
+  },
+  {
+    "slug": "nacimiento",
+    "name": "Nacimiento",
+    "menuName": "Nacimiento",
+    "parent": "ocasiones",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 3,
+    "path": "/product-category/ocasiones/nacimiento/"
+  },
+  {
+    "slug": "enamorados",
+    "name": "Enamorados",
+    "menuName": "Enamorados",
+    "parent": "ocasiones",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 4,
+    "path": "/product-category/ocasiones/enamorados/"
+  },
+  {
+    "slug": "flores",
+    "name": "Flores",
+    "menuName": "Flores",
+    "parent": null,
+    "headerImage": "/images/headers/tj-tienda.webp",
+    "order": 5,
+    "path": "/product-category/flores/"
+  },
+  {
+    "slug": "rosas",
+    "name": "Rosas",
+    "menuName": "Rosas",
+    "parent": "flores",
+    "headerImage": "/images/headers/tj-tienda.webp",
+    "order": 6,
+    "path": "/product-category/flores/rosas/"
+  },
+  {
+    "slug": "preservadas",
+    "name": "Preservadas",
+    "menuName": "Preservadas",
+    "parent": "flores",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 7,
+    "path": "/product-category/flores/preservadas/"
+  },
+  {
+    "slug": "ramos-flores",
+    "name": "Ramos",
+    "menuName": "Ramos",
+    "parent": "flores",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 8,
+    "path": "/product-category/flores/ramos-flores/"
+  },
+  {
+    "slug": "centros-flores",
+    "name": "Centros de Flores",
+    "menuName": "Centros",
+    "parent": "flores",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 9,
+    "path": "/product-category/flores/centros-flores/"
+  },
+  {
+    "slug": "plantas",
+    "name": "Plantas",
+    "menuName": "Plantas",
+    "parent": null,
+    "headerImage": "/images/headers/h-plantas-interior.webp",
+    "order": 10,
+    "path": "/product-category/plantas/"
+  },
+  {
+    "slug": "interior",
+    "name": "Interior",
+    "menuName": "Interior",
+    "parent": "plantas",
+    "headerImage": "/images/headers/h-plantas-interior.webp",
+    "order": 11,
+    "path": "/product-category/plantas/interior/"
+  },
+  {
+    "slug": "orquideas",
+    "name": "Orquídeas",
+    "menuName": "Orquídeas",
+    "parent": "plantas",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 12,
+    "path": "/product-category/plantas/orquideas/"
+  },
+  {
+    "slug": "centros-plantas",
+    "name": "Centros de Plantas",
+    "menuName": "Centros",
+    "parent": "plantas",
+    "headerImage": "/images/headers/h-flores-rosas.webp",
+    "order": 13,
+    "path": "/product-category/plantas/centros-plantas/"
+  },
+  {
+    "slug": "funerarios",
+    "name": "Servicios Funerarios",
+    "menuName": "Servicios Funerarios",
+    "parent": null,
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 14,
+    "path": "/product-category/funerarios/"
+  },
+  {
+    "slug": "funerarios-ramos",
+    "name": "Ramos",
+    "menuName": "Ramos",
+    "parent": "funerarios",
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 15,
+    "path": "/product-category/funerarios/funerarios-ramos/"
+  },
+  {
+    "slug": "funerarios-centros",
+    "name": "Centros",
+    "menuName": "Centros",
+    "parent": "funerarios",
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 16,
+    "path": "/product-category/funerarios/funerarios-centros/"
+  },
+  {
+    "slug": "coronas",
+    "name": "Coronas",
+    "menuName": "Coronas",
+    "parent": "funerarios",
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 17,
+    "path": "/product-category/funerarios/coronas/"
+  },
+  {
+    "slug": "cruces",
+    "name": "Cruces",
+    "menuName": "Cruces",
+    "parent": "funerarios",
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 18,
+    "path": "/product-category/funerarios/cruces/"
+  },
+  {
+    "slug": "corazones",
+    "name": "Corazones",
+    "menuName": "Corazones",
+    "parent": "funerarios",
+    "headerImage": "/images/headers/h-sf.webp",
+    "order": 19,
+    "path": "/product-category/funerarios/corazones/"
+  }
+]

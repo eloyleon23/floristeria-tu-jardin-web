@@ -1,0 +1,6479 @@
+[
+  {
+    "id": "P5735",
+    "sku": "OC-RE.070",
+    "name": "Abanico",
+    "slug": "abanico",
+    "shortDescription": "Dos lilium, dos anthurium, cuatro tulipanes, tres crisantemos, cuatro gerberas, dos strelitzias y verdes",
+    "description": "Dos lilium, dos anthurium, cuatro tulipanes, tres crisantemos, cuatro gerberas, dos strelitzias y verdes",
+    "price": 50,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/abanico.webp",
+      "thumb": "/images/products/abanico-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Abanico"
+    },
+    "images": [
+      {
+        "src": "/images/products/abanico.webp",
+        "thumb": "/images/products/abanico-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Abanico"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 0,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5593",
+    "sku": "P-IN.001",
+    "name": "Anthurium",
+    "slug": "anthurium",
+    "shortDescription": "",
+    "description": "",
+    "price": 13,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/anthurium.webp",
+      "thumb": "/images/products/anthurium-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Anthurium"
+    },
+    "images": [
+      {
+        "src": "/images/products/anthurium.webp",
+        "thumb": "/images/products/anthurium-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Anthurium"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 1,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5758",
+    "sku": "OC-RE.092",
+    "name": "Bombonera Flores",
+    "slug": "bombonera-flores",
+    "shortDescription": "Bombonera con un lilium, una rosa, dos crisantemos y verdes variado",
+    "description": "Bombonera con un lilium, una rosa, dos crisantemos y verdes variados",
+    "price": 15,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bombonera-flores.webp",
+      "thumb": "/images/products/bombonera-flores-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bombonera Flores"
+    },
+    "images": [
+      {
+        "src": "/images/products/bombonera-flores.webp",
+        "thumb": "/images/products/bombonera-flores-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bombonera Flores"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Rojo"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 2,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5744",
+    "sku": "OC-RE.078",
+    "name": "Bouquet Abril",
+    "slug": "bouquet-abril",
+    "shortDescription": "Tres girasoles, tres crisantemos, dos orientales, cuatro lilium, flor de cera y verdes",
+    "description": "Tres girasoles, tres crisantemos, dos orientales, cuatro lilium, flor de cera y verdes",
+    "price": 45,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-abril.webp",
+      "thumb": "/images/products/bouquet-abril-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Abril"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-abril.webp",
+        "thumb": "/images/products/bouquet-abril-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Abril"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 3,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5751",
+    "sku": "OC-RE.086",
+    "name": "Bouquet Acapulco",
+    "slug": "bouquet-acapulco",
+    "shortDescription": "Composición de doce gerberas y verdes variados",
+    "description": "Composición de doce gerberas y verdes variados",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-acapulco.webp",
+      "thumb": "/images/products/bouquet-acapulco-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Acapulco"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-acapulco.webp",
+        "thumb": "/images/products/bouquet-acapulco-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Acapulco"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Naranja"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 4,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5754",
+    "sku": "OC-RE.088",
+    "name": "Bouquet Amanecer",
+    "slug": "bouquet-amanecer",
+    "shortDescription": "Composición de tres rosas, tres gerberas, cuatro astromelias y verdes variados",
+    "description": "Composición de tres rosas, tres gerberas, cuatro astromelias y verdes variados",
+    "price": 30,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-amanecer.webp",
+      "thumb": "/images/products/bouquet-amanecer-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Amanecer"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-amanecer.webp",
+        "thumb": "/images/products/bouquet-amanecer-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Amanecer"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 5,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5738",
+    "sku": "OC-RE.072",
+    "name": "Bouquet Calma",
+    "slug": "bouquet-calma",
+    "shortDescription": "Lilium, panicualata y verdes",
+    "description": "Lilium, panicualata y verdes",
+    "price": 6,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-calma.webp",
+      "thumb": "/images/products/bouquet-calma-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Calma"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-calma.webp",
+        "thumb": "/images/products/bouquet-calma-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Calma"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 6,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5762",
+    "sku": "OC-NA.085",
+    "name": "Bouquet Chamberí",
+    "slug": "bouquet-chamberi",
+    "shortDescription": "Composición de un peluche, una rosa, dos lilium, cuatro crisantemos y bouquet plumas",
+    "description": "Composición de un peluche, una rosa, dos lilium, cuatro crisantemos y bouquet plumas",
+    "price": 30,
+    "category": "ocasiones",
+    "subcategories": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-chamberi.webp",
+      "thumb": "/images/products/bouquet-chamberi-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Chamberí"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-chamberi.webp",
+        "thumb": "/images/products/bouquet-chamberi-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Chamberí"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Rojo",
+      "Violeta"
+    ],
+    "tags": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Nacimiento"
+    ],
+    "order": 7,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5755",
+    "sku": "OC-RE.089",
+    "name": "Bouquet Cies",
+    "slug": "bouquet-cies",
+    "shortDescription": "Composición de un lilium, seis gerberas, dos girasoles, tres crisantemos y verdes variados",
+    "description": "Composición de un lilium, seis gerberas, dos girasoles, tres crisantemos y verdes variados",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-cies.webp",
+      "thumb": "/images/products/bouquet-cies-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Cies"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-cies.webp",
+        "thumb": "/images/products/bouquet-cies-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Cies"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 8,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5742",
+    "sku": "OC-RE.076",
+    "name": "Bouquet Dulzura",
+    "slug": "bouquet-dulzura",
+    "shortDescription": "Composición de tres gerberas, tres crisantemos, tres lilium en bouquet de cristal",
+    "description": "Composición de tres gerberas, tres crisantemos, tres lilium en bouquet de cristal",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-dulzura.webp",
+      "thumb": "/images/products/bouquet-dulzura-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Dulzura"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-dulzura.webp",
+        "thumb": "/images/products/bouquet-dulzura-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Dulzura"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 9,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5703",
+    "sku": "OC-RE.066",
+    "name": "Bouquet Emoción",
+    "slug": "bouquet-emocion",
+    "shortDescription": "Tres rosas, siete tulipanes tres hypericum, tres crisantemos y tres lisianthus",
+    "description": "Tres rosas, siete tulipanes tres hypericum, tres crisantemos y tres lisianthus",
+    "price": 50,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-emocion.webp",
+      "thumb": "/images/products/bouquet-emocion-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Emoción"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-emocion.webp",
+        "thumb": "/images/products/bouquet-emocion-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Emoción"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 10,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5766",
+    "sku": "OC-NA.097",
+    "name": "Bouquet Hechizo",
+    "slug": "bouquet-hechizo",
+    "shortDescription": "Composición de statis, cuatro gerberas, seis crisantemos, seis rosas, cuatro girasoles, cuatro lilium, un peluche y verdes variados",
+    "description": "Composición de statis, cuatro gerberas, seis crisantemos, seis rosas, cuatro girasoles, cuatro lilium, un peluche y verdes variados",
+    "price": 65,
+    "category": "ocasiones",
+    "subcategories": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-hechizo.webp",
+      "thumb": "/images/products/bouquet-hechizo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Hechizo"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-hechizo.webp",
+        "thumb": "/images/products/bouquet-hechizo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Hechizo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Nacimiento"
+    ],
+    "order": 11,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5745",
+    "sku": "OC-RE.079",
+    "name": "Bouquet Leire",
+    "slug": "bouquet-leire",
+    "shortDescription": "Seis crisantemos, seis gerberas, seis astromelia, cinco lilium, dos girasoles y verdes variados",
+    "description": "Seis crisantemos, seis gerberas, seis astromelia, cinco lilium, dos girasoles y verdes variados",
+    "price": 45,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-leire.webp",
+      "thumb": "/images/products/bouquet-leire-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Leire"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-leire.webp",
+        "thumb": "/images/products/bouquet-leire-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Leire"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 12,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5757",
+    "sku": "OC-RE.091",
+    "name": "Bouquet Ninara",
+    "slug": "bouquet-ninara",
+    "shortDescription": "Composición de cuatro gerberas, paniculata, verdes variados y bouquet sisal",
+    "description": "Composición de cuatro gerberas, paniculata, verdes variados y bouquet sisal",
+    "price": 15,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-ninara.webp",
+      "thumb": "/images/products/bouquet-ninara-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Ninara"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-ninara.webp",
+        "thumb": "/images/products/bouquet-ninara-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Ninara"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 13,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5667",
+    "sku": "FL-R.049",
+    "name": "Bouquet Rosas",
+    "slug": "bouquet-rosas",
+    "shortDescription": "Seis rosas con pedrería y pluma roja",
+    "description": "Seis rosas con pedrería y pluma roja",
+    "price": 30,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-rosas.webp",
+      "thumb": "/images/products/bouquet-rosas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Rosas"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-rosas.webp",
+        "thumb": "/images/products/bouquet-rosas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Rosas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 14,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5700",
+    "sku": "FL-R.063",
+    "name": "Bouquet Rosas Capri",
+    "slug": "bouquet-rosas-capri",
+    "shortDescription": "Diez rosas amarillas y verdes",
+    "description": "Diez rosas amarillas y verdes",
+    "price": 45,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-rosas-capri.webp",
+      "thumb": "/images/products/bouquet-rosas-capri-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Rosas Capri"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-rosas-capri.webp",
+        "thumb": "/images/products/bouquet-rosas-capri-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Rosas Capri"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 15,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5702",
+    "sku": "FL-R.065",
+    "name": "Bouquet Rosas Kira",
+    "slug": "bouquet-rosas-kira",
+    "shortDescription": "Cuatro rosas decoradas con paniculata y verdes",
+    "description": "Cuatro rosas decoradas con paniculata y verdes",
+    "price": 18,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-rosas-kira.webp",
+      "thumb": "/images/products/bouquet-rosas-kira-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Rosas Kira"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-rosas-kira.webp",
+        "thumb": "/images/products/bouquet-rosas-kira-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Rosas Kira"
+      }
+    ],
+    "available": true,
+    "featured": true,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 16,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5701",
+    "sku": "FL-R.064",
+    "name": "Bouquet Rosas Saona",
+    "slug": "bouquet-rosas-saona",
+    "shortDescription": "Tres rosas decoradas en bouquet de sisal con paniculata y verdes",
+    "description": "Tres rosas decoradas en bouquet de sisal con paniculata y verdes",
+    "price": 16,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-rosas-saona.webp",
+      "thumb": "/images/products/bouquet-rosas-saona-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Rosas Saona"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-rosas-saona.webp",
+        "thumb": "/images/products/bouquet-rosas-saona-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Rosas Saona"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 17,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5692",
+    "sku": "FL-R.055",
+    "name": "Bouquet Rosas y Calas Atenas",
+    "slug": "bouquet-rosas-calas-atenas",
+    "shortDescription": "Composición con seis rosas, tres calas, paniculata y verdes",
+    "description": "Composición con seis rosas, tres calas, paniculata y verdes",
+    "price": 35,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-rosas-calas-atenas.webp",
+      "thumb": "/images/products/bouquet-rosas-calas-atenas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Rosas y Calas Atenas"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-rosas-calas-atenas.webp",
+        "thumb": "/images/products/bouquet-rosas-calas-atenas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Rosas y Calas Atenas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 18,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5761",
+    "sku": "OC-RE.095",
+    "name": "Bouquet Saint Michel",
+    "slug": "bouquet-saint-michel",
+    "shortDescription": "Composición de statis, cinco gerberas, ocho crisantemos, cuatro girasoles, ocho rosas, cinco lilium y verdes variados",
+    "description": "Composición de statis, cinco gerberas, ocho crisantemos, cuatro girasoles, ocho rosas, cinco lilium y verdes variados",
+    "price": 65,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-saint-michel.webp",
+      "thumb": "/images/products/bouquet-saint-michel-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Saint Michel"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-saint-michel.webp",
+        "thumb": "/images/products/bouquet-saint-michel-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Saint Michel"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Violeta"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 19,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5736",
+    "sku": "OC-RE.071",
+    "name": "Bouquet Sonrisa",
+    "slug": "bouquet-sonrisa",
+    "shortDescription": "Dos lilium, dos orquídeas, cuatro crisantemos, dos gerberas, verdes y bouquet de plumas",
+    "description": "Dos lilium, dos orquídeas, cuatro crisantemos, dos gerberas, verdes y bouquet de plumas",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-sonrisa.webp",
+      "thumb": "/images/products/bouquet-sonrisa-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Sonrisa"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-sonrisa.webp",
+        "thumb": "/images/products/bouquet-sonrisa-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Sonrisa"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 20,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5739",
+    "sku": "OC-RE.073",
+    "name": "Bouquet Strelitzia",
+    "slug": "bouquet-strelitzia",
+    "shortDescription": "Dos strelitzias y verdes variados",
+    "description": "Dos strelitzias y verdes variados",
+    "price": 15,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/bouquet-strelitzia.webp",
+      "thumb": "/images/products/bouquet-strelitzia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bouquet Strelitzia"
+    },
+    "images": [
+      {
+        "src": "/images/products/bouquet-strelitzia.webp",
+        "thumb": "/images/products/bouquet-strelitzia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bouquet Strelitzia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Naranja"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 21,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5607",
+    "sku": "P-IN.003",
+    "name": "Bromelia",
+    "slug": "bromelia",
+    "shortDescription": "",
+    "description": "",
+    "price": 9.5,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/bromelia.webp",
+      "thumb": "/images/products/bromelia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Bromelia"
+    },
+    "images": [
+      {
+        "src": "/images/products/bromelia.webp",
+        "thumb": "/images/products/bromelia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Bromelia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 22,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5663",
+    "sku": "FL-R.044",
+    "name": "Caja Corazón Rosmelia Preservada",
+    "slug": "caja-corazon-rosmelia",
+    "shortDescription": "",
+    "description": "",
+    "price": 18.5,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/caja-corazon-rosmelia.webp",
+      "thumb": "/images/products/caja-corazon-rosmelia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Caja Corazón Rosmelia Preservada"
+    },
+    "images": [
+      {
+        "src": "/images/products/caja-corazon-rosmelia.webp",
+        "thumb": "/images/products/caja-corazon-rosmelia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Caja Corazón Rosmelia Preservada"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 23,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5785",
+    "sku": "OC-EN.110",
+    "name": "Centrito Orquídeas",
+    "slug": "centrito-orquideas",
+    "shortDescription": "Composición de dos orquídeas, peluche mariquita y verdes variados",
+    "description": "Composición de dos orquídeas, peluche mariquita y verdes variados",
+    "price": 16,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centrito-orquideas.webp",
+      "thumb": "/images/products/centrito-orquideas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centrito Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centrito-orquideas.webp",
+        "thumb": "/images/products/centrito-orquideas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centrito Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Violeta"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 24,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5521",
+    "sku": "F-CE.003",
+    "name": "Centro Amarillo",
+    "slug": "centro-amarillo",
+    "shortDescription": "Centro de alelies blancos, lilium amarillo y astromedia rosa",
+    "description": "Centro de alelies blancos, lilium amarillo y astromedia rosa",
+    "price": 105,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-amarillo.webp",
+      "thumb": "/images/products/centro-amarillo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Amarillo"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-amarillo.webp",
+        "thumb": "/images/products/centro-amarillo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Amarillo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 25,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5732",
+    "sku": "OC-RE.067",
+    "name": "Centro Anthurium",
+    "slug": "centro-anthurium",
+    "shortDescription": "Centro cristal anthurium rojo, hypericum, verdes y astomelia",
+    "description": "Centro cristal anthurium rojo, hypericum, verdes y astomelia",
+    "price": 55,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-anthurium.webp",
+      "thumb": "/images/products/centro-anthurium-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Anthurium"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-anthurium.webp",
+        "thumb": "/images/products/centro-anthurium-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Anthurium"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 26,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5780",
+    "sku": "OC-EN.105",
+    "name": "Centro Anthurium y Orquídeas",
+    "slug": "centro-anthurium-y-orquideas",
+    "shortDescription": "Composición de dos anthurium, tres orquídeas, caja de bombones y verdes variados",
+    "description": "Composición de dos anthurium, tres orquídeas, caja de bombones y verdes variados",
+    "price": 30,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-anthurium-y-orquideas.webp",
+      "thumb": "/images/products/centro-anthurium-y-orquideas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Anthurium y Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-anthurium-y-orquideas.webp",
+        "thumb": "/images/products/centro-anthurium-y-orquideas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Anthurium y Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Rojo"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 27,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5781",
+    "sku": "OC-EN.106",
+    "name": "Centro Anthurium y Orquídeas",
+    "slug": "centro-anthurium-y-orquideas-2",
+    "shortDescription": "Composición de tres anthurium, tres orquídeas, caja de bombones y verdes variados",
+    "description": "Composición de tres anthurium, tres orquídeas, caja de bombones y verdes variados",
+    "price": 35,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-anthurium-y-orquideas-2.webp",
+      "thumb": "/images/products/centro-anthurium-y-orquideas-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Anthurium y Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-anthurium-y-orquideas-2.webp",
+        "thumb": "/images/products/centro-anthurium-y-orquideas-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Anthurium y Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 28,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5524",
+    "sku": "F-CE.008",
+    "name": "Centro Blanco y Amarillo",
+    "slug": "centro-blanco-amarillo",
+    "shortDescription": "Oriental blanco, lilium amarillo, rosas blancas y amarillas, verdes variados",
+    "description": "Oriental blanco, lilium amarillo, rosas blancas y amarillas, verdes variados",
+    "price": 140,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-blanco-amarillo.webp",
+      "thumb": "/images/products/centro-blanco-amarillo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Blanco y Amarillo"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-blanco-amarillo.webp",
+        "thumb": "/images/products/centro-blanco-amarillo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Blanco y Amarillo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 29,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5608",
+    "sku": "P-C.005",
+    "name": "Centro Cactus",
+    "slug": "centro-cactus",
+    "shortDescription": "",
+    "description": "",
+    "price": 15,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/centro-cactus.webp",
+      "thumb": "/images/products/centro-cactus-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Cactus"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-cactus.webp",
+        "thumb": "/images/products/centro-cactus-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Cactus"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [],
+    "tags": [
+      "cactus",
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 30,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description",
+      "colors"
+    ]
+  },
+  {
+    "id": "P5526",
+    "sku": "F-CE.012",
+    "name": "Centro Dama Blanca",
+    "slug": "centro-dama-blanca",
+    "shortDescription": "Elegante centro de oriental blanco, rosas rojas y verdes variados",
+    "description": "Elegante centro de oriental blanco, rosas rojas y verdes variados",
+    "price": 150,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-dama-blanca.webp",
+      "thumb": "/images/products/centro-dama-blanca-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Dama Blanca"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-dama-blanca.webp",
+        "thumb": "/images/products/centro-dama-blanca-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Dama Blanca"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Rojo"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 31,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5527",
+    "sku": "F-CE.014",
+    "name": "Centro de Rosas",
+    "slug": "centro-de-rosas",
+    "shortDescription": "Centro en abanico de rosas blancas, paniculata y verdes variados",
+    "description": "Centro en abanico de rosas blancas, paniculata y verdes variados",
+    "price": 180,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-de-rosas.webp",
+      "thumb": "/images/products/centro-de-rosas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro de Rosas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-de-rosas.webp",
+        "thumb": "/images/products/centro-de-rosas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro de Rosas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 32,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5740",
+    "sku": "OC-RE.074",
+    "name": "Centro Delicia",
+    "slug": "centro-delicia",
+    "shortDescription": "Cinco strelitzia, ocho gerberas, seis lirium y tres crisantemos",
+    "description": "Cinco strelitzia, ocho gerberas, seis lirium y tres crisantemos",
+    "price": 55,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-delicia.webp",
+      "thumb": "/images/products/centro-delicia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Delicia"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-delicia.webp",
+        "thumb": "/images/products/centro-delicia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Delicia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 33,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5756",
+    "sku": "OC-RE.090",
+    "name": "Centro Elian",
+    "slug": "centro-elian",
+    "shortDescription": "Composición de tres rosas, seis lilium, cinco astromedias, cinco gerberas, cuatro crisantemos, dos solidalgo y verdes variados",
+    "description": "Composición de tres rosas, seis lilium, cinco astromedias, cinco gerberas, cuatro crisantemos, dos solidalgo y verdes variados",
+    "price": 55,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-elian.webp",
+      "thumb": "/images/products/centro-elian-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Elian"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-elian.webp",
+        "thumb": "/images/products/centro-elian-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Elian"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 34,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5743",
+    "sku": "OC-RE.077",
+    "name": "Centro Infinito",
+    "slug": "centro-infinito",
+    "shortDescription": "Cinco crisantemos, seis gerberas, dos solidalgo, cinco lilium, un alelí, cinco astromelia y tres rosas",
+    "description": "Cinco crisantemos, seis gerberas, dos solidalgo, cinco lilium, un alelí, cinco astromelia y tres rosas",
+    "price": 55,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-infinito.webp",
+      "thumb": "/images/products/centro-infinito-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Infinito"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-infinito.webp",
+        "thumb": "/images/products/centro-infinito-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Infinito"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 35,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5520",
+    "sku": "F-CE.002",
+    "name": "Centro Lisiantu",
+    "slug": "centro-lisiantu",
+    "shortDescription": "Centro de lisiantu blanco, lilium amarillo y astromedia naranja",
+    "description": "Centro de lisiantu blanco, lilium amarillo y astromedia naranja",
+    "price": 95,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-lisiantu.webp",
+      "thumb": "/images/products/centro-lisiantu-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Lisiantu"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-lisiantu.webp",
+        "thumb": "/images/products/centro-lisiantu-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Lisiantu"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Naranja"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 36,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5646",
+    "sku": "OC-N.034",
+    "name": "Centro mesa Navidad",
+    "slug": "centro-navidad",
+    "shortDescription": "Centro de flor variada y de temporada con motivos navideños",
+    "description": "Centro de flor variada y de temporada con motivos navideños",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "navidad",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-navidad.webp",
+      "thumb": "/images/products/centro-navidad-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro mesa Navidad"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-navidad.webp",
+        "thumb": "/images/products/centro-navidad-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro mesa Navidad"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "navidad",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Navidad"
+    ],
+    "order": 37,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5647",
+    "sku": "OC-N.035",
+    "name": "Centro mesa Navidad",
+    "slug": "centro-mesa-navidad-2",
+    "shortDescription": "Centro de flor de temporada con motivos navideños",
+    "description": "Centro de flor de temporada con motivos navideños",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "navidad",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-mesa-navidad-2.webp",
+      "thumb": "/images/products/centro-mesa-navidad-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro mesa Navidad"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-mesa-navidad-2.webp",
+        "thumb": "/images/products/centro-mesa-navidad-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro mesa Navidad"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "navidad",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Navidad"
+    ],
+    "order": 38,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5753",
+    "sku": "OC-RE.087",
+    "name": "Centro Mosaico",
+    "slug": "centro-mosaico",
+    "shortDescription": "Composición de ocho gerberas, seis claveles, doce crisantemos, seis lilium y verdes variados",
+    "description": "Composición de ocho gerberas, seis claveles, doce crisantemos, seis lilium y verdes variados",
+    "price": 50,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-mosaico.webp",
+      "thumb": "/images/products/centro-mosaico-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Mosaico"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-mosaico.webp",
+        "thumb": "/images/products/centro-mosaico-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Mosaico"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 39,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5510",
+    "sku": "F-CE.001",
+    "name": "Centro Naranja",
+    "slug": "centro-naranja",
+    "shortDescription": "Centro de lilium naranja, alelies blancos y verdes variados",
+    "description": "Centro de lilium naranja, alelies blancos y verdes variados",
+    "price": 85,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-naranja.webp",
+      "thumb": "/images/products/centro-naranja-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Naranja"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-naranja.webp",
+        "thumb": "/images/products/centro-naranja-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Naranja"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Naranja"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 40,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5648",
+    "sku": "OC-N.036",
+    "name": "Centro Navideño",
+    "slug": "centro-navideno",
+    "shortDescription": "Centro de flor de temporada con motivos navideños",
+    "description": "Centro de flor de temporada con motivos navideños",
+    "price": 15,
+    "category": "ocasiones",
+    "subcategories": [
+      "navidad",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-navideno.webp",
+      "thumb": "/images/products/centro-navideno-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Navideño"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-navideno.webp",
+        "thumb": "/images/products/centro-navideno-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Navideño"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "navidad",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Navidad"
+    ],
+    "order": 41,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5734",
+    "sku": "OC-RE.069",
+    "name": "Centro Oriental",
+    "slug": "centro-oriental-2",
+    "shortDescription": "Cuatro oriental, cuatro gerberas, tres crisantemos y lisianthus",
+    "description": "Cuatro oriental, cuatro gerberas, tres crisantemos y lisianthus",
+    "price": 40,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/centro-oriental-2.webp",
+      "thumb": "/images/products/centro-oriental-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Oriental"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-oriental-2.webp",
+        "thumb": "/images/products/centro-oriental-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Oriental"
+      }
+    ],
+    "available": true,
+    "featured": true,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 42,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5522",
+    "sku": "F-CE.005",
+    "name": "Centro Oriental",
+    "slug": "centro-oriental",
+    "shortDescription": "Centro de oriental blanco, rosas y solidalgo amarillo y verdes variados",
+    "description": "Centro de oriental blanco, rosas y solidalgo amarillo y verdes variados",
+    "price": 125,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-oriental.webp",
+      "thumb": "/images/products/centro-oriental-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Oriental"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-oriental.webp",
+        "thumb": "/images/products/centro-oriental-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Oriental"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 43,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5768",
+    "sku": "OC-EN.103",
+    "name": "Centro Orquídeas",
+    "slug": "centro-orquideas",
+    "shortDescription": "Composición de cuatro orquídeas, hypericum, bombones, verdes variados y motivos de enamorados",
+    "description": "Composición de cuatro orquídeas, hypericum, bombones, verdes variados y motivos de enamorados",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-orquideas.webp",
+      "thumb": "/images/products/centro-orquideas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-orquideas.webp",
+        "thumb": "/images/products/centro-orquideas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 44,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5784",
+    "sku": "OC-EN.109",
+    "name": "Centro Orquídeas",
+    "slug": "centro-orquideas-2",
+    "shortDescription": "Composición de tres orquídeas, peluche y verdes variados",
+    "description": "Composición de tres orquídeas, peluche y verdes variados",
+    "price": 22,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-orquideas-2.webp",
+      "thumb": "/images/products/centro-orquideas-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-orquideas-2.webp",
+        "thumb": "/images/products/centro-orquideas-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Violeta"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 45,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5783",
+    "sku": "OC-EN.108",
+    "name": "Centro Osito",
+    "slug": "centro-osito",
+    "shortDescription": "Composición de dos orquídeas,peluche y verdes variados",
+    "description": "Composición de dos orquídeas,peluche y verdes variados",
+    "price": 16,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-osito.webp",
+      "thumb": "/images/products/centro-osito-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Osito"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-osito.webp",
+        "thumb": "/images/products/centro-osito-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Osito"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Violeta"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 46,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5618",
+    "sku": "P-C.006",
+    "name": "Centro Plantas",
+    "slug": "centro-plantas",
+    "shortDescription": "Composición hiedra, hypoestes esparraguera y cyclamen",
+    "description": "Composición hiedra, hypoestes esparraguera y cyclamen",
+    "price": 25,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/centro-plantas.webp",
+      "thumb": "/images/products/centro-plantas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Plantas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-plantas.webp",
+        "thumb": "/images/products/centro-plantas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Plantas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Naranja",
+      "Rosa"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 47,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5523",
+    "sku": "F-CE.007",
+    "name": "Centro Rojo",
+    "slug": "centro-rojo",
+    "shortDescription": "Cobertura de cladiolo blanco, lilium rojo, rosas blancas y verdes variados",
+    "description": "Cobertura de cladiolo blanco, lilium rojo, rosas blancas y verdes variados",
+    "price": 140,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-rojo.webp",
+      "thumb": "/images/products/centro-rojo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Rojo"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-rojo.webp",
+        "thumb": "/images/products/centro-rojo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Rojo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 48,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5525",
+    "sku": "F-CE.009",
+    "name": "Centro Rosa",
+    "slug": "centro-rosa",
+    "shortDescription": "Centro de oriental blanco, lilium y rosas rosas, paniculata y verdes variados",
+    "description": "Centro de oriental blanco, lilium y rosas rosas, paniculata y verdes variados",
+    "price": 140,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "funerarios-centros"
+    ],
+    "image": {
+      "src": "/images/products/centro-rosa.webp",
+      "thumb": "/images/products/centro-rosa-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Rosa"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-rosa.webp",
+        "thumb": "/images/products/centro-rosa-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Rosa"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Rosa"
+    ],
+    "tags": [
+      "centros-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 49,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5687",
+    "sku": "FL-R.052",
+    "name": "Centro Rosas Cinnia",
+    "slug": "centro-rosas-cinnia",
+    "shortDescription": "Cinco rosas decoradas con variedad de verde",
+    "description": "Cinco rosas decoradas con variedad de verde",
+    "price": 30,
+    "category": "flores",
+    "subcategories": [
+      "centros-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/centro-rosas-cinnia.webp",
+      "thumb": "/images/products/centro-rosas-cinnia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Rosas Cinnia"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-rosas-cinnia.webp",
+        "thumb": "/images/products/centro-rosas-cinnia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Rosas Cinnia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "centro-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 50,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5690",
+    "sku": "FL-R.053",
+    "name": "Centro Rosas Elvia",
+    "slug": "centro-rosas-elvia",
+    "shortDescription": "Composición floral de cuatro rosas, cuatro lilium y verdes varios",
+    "description": "Composición floral de cuatro rosas, cuatro lilium y verdes varios",
+    "price": 35,
+    "category": "flores",
+    "subcategories": [
+      "centros-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/centro-rosas-elvia.webp",
+      "thumb": "/images/products/centro-rosas-elvia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Rosas Elvia"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-rosas-elvia.webp",
+        "thumb": "/images/products/centro-rosas-elvia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Rosas Elvia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "centro-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 51,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5779",
+    "sku": "OC-EN.104",
+    "name": "Centro Rosas y Orquídeas",
+    "slug": "centro-rosas-orquideas",
+    "shortDescription": "Composición de tres rosas, tres orquídeas, crisantemos y verdes variados",
+    "description": "Composición de tres rosas, tres orquídeas, crisantemos y verdes variados",
+    "price": 30,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/centro-rosas-orquideas.webp",
+      "thumb": "/images/products/centro-rosas-orquideas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Rosas y Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-rosas-orquideas.webp",
+        "thumb": "/images/products/centro-rosas-orquideas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Rosas y Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Rojo"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 52,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5621",
+    "sku": "P-C.008",
+    "name": "Centro Suculentas",
+    "slug": "centro-suculentas",
+    "shortDescription": "",
+    "description": "",
+    "price": 18,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/centro-suculentas.webp",
+      "thumb": "/images/products/centro-suculentas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Centro Suculentas"
+    },
+    "images": [
+      {
+        "src": "/images/products/centro-suculentas.webp",
+        "thumb": "/images/products/centro-suculentas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Centro Suculentas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa",
+      "Violeta"
+    ],
+    "tags": [
+      "cactus",
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 53,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5759",
+    "sku": "OC-RE.093",
+    "name": "Cesta Campestre",
+    "slug": "cesta-campestre",
+    "shortDescription": "Cesta decorada con cuatro rosas, seis lilium, siete crisantemos, seis claveles y verdes variados",
+    "description": "Cesta decorada con cuatro rosas, seis lilium, siete crisantemos, seis claveles y verdes variados",
+    "price": 45,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/cesta-campestre.webp",
+      "thumb": "/images/products/cesta-campestre-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Campestre"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-campestre.webp",
+        "thumb": "/images/products/cesta-campestre-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Campestre"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 54,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5782",
+    "sku": "OC-EN.107",
+    "name": "Cesta Orquídeas",
+    "slug": "cesta-orquideas",
+    "shortDescription": "Composición de tres orquídeas, verdes variados y decoración de enamorados",
+    "description": "Composición de tres orquídeas, verdes variados y decoración de enamorados",
+    "price": 20,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/cesta-orquideas.webp",
+      "thumb": "/images/products/cesta-orquideas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Orquídeas"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-orquideas.webp",
+        "thumb": "/images/products/cesta-orquideas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Orquídeas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Violeta"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 55,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5622",
+    "sku": "P-C.011",
+    "name": "Cesta Plantas Creta",
+    "slug": "cesta-plantas-creta",
+    "shortDescription": "Composición anthurium, kalanchoe calathea, crisantermi zaniculca y hiedra",
+    "description": "Composición anthurium, kalanchoe calathea, crisantermi zaniculca y hiedra",
+    "price": 55,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/cesta-plantas-creta.webp",
+      "thumb": "/images/products/cesta-plantas-creta-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Plantas Creta"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-plantas-creta.webp",
+        "thumb": "/images/products/cesta-plantas-creta-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Plantas Creta"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 56,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5623",
+    "sku": "P-C.012",
+    "name": "Cesta Plantas Flowers",
+    "slug": "cesta-plantas-flowers",
+    "shortDescription": "Kalanchoe, hipoestes, helecho y hiedra",
+    "description": "Kalanchoe, hipoestes, helecho y hiedra",
+    "price": 25,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/cesta-plantas-flowers.webp",
+      "thumb": "/images/products/cesta-plantas-flowers-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Plantas Flowers"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-plantas-flowers.webp",
+        "thumb": "/images/products/cesta-plantas-flowers-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Plantas Flowers"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 57,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5624",
+    "sku": "P-C.013",
+    "name": "Cesta Plantas Garden",
+    "slug": "cesta-plantas-garden",
+    "shortDescription": "Croton, kalanchoe, spatifilium y peperomia",
+    "description": "Croton, kalanchoe, spatifilium y peperomia",
+    "price": 35,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/cesta-plantas-garden.webp",
+      "thumb": "/images/products/cesta-plantas-garden-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Plantas Garden"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-plantas-garden.webp",
+        "thumb": "/images/products/cesta-plantas-garden-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Plantas Garden"
+      }
+    ],
+    "available": true,
+    "featured": true,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 58,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5625",
+    "sku": "P-C.014",
+    "name": "Cesta Plantas Kalanchoe",
+    "slug": "cesta-plantas-kalanchoe",
+    "shortDescription": "Kalanchoe, helecho pteris y dieffenbanchia",
+    "description": "Kalanchoe, helecho pteris y dieffenbanchia",
+    "price": 25,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/cesta-plantas-kalanchoe.webp",
+      "thumb": "/images/products/cesta-plantas-kalanchoe-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Plantas Kalanchoe"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-plantas-kalanchoe.webp",
+        "thumb": "/images/products/cesta-plantas-kalanchoe-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Plantas Kalanchoe"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 59,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5620",
+    "sku": "P-C.007",
+    "name": "Cesta Plantas Milos",
+    "slug": "cesta-plantas-milos",
+    "shortDescription": "Composición esparraguera, ficus, violetas, alegría chamaedorea",
+    "description": "Composición esparraguera, ficus, violetas, alegría chamaedorea",
+    "price": 35,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/cesta-plantas-milos.webp",
+      "thumb": "/images/products/cesta-plantas-milos-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Plantas Milos"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-plantas-milos.webp",
+        "thumb": "/images/products/cesta-plantas-milos-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Plantas Milos"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa",
+      "Violeta"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 60,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5640",
+    "sku": "OC-N.032",
+    "name": "Cesta plantas Navidad",
+    "slug": "cesta-navidad",
+    "shortDescription": "Plantas de temporada Navidad",
+    "description": "Plantas de temporada Navidad",
+    "price": 20,
+    "category": "ocasiones",
+    "subcategories": [
+      "navidad",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/cesta-navidad.webp",
+      "thumb": "/images/products/cesta-navidad-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta plantas Navidad"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-navidad.webp",
+        "thumb": "/images/products/cesta-navidad-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta plantas Navidad"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "navidad",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Navidad"
+    ],
+    "order": 61,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5760",
+    "sku": "OC-RE.094",
+    "name": "Cesta Primavera",
+    "slug": "cesta-primavera",
+    "shortDescription": "Cesta decorada con cuatro rosas, cuatro lilium, seis claveles, una oriental, dos crisantemos y verdes variados",
+    "description": "Cesta decorada con cuatro rosas, cuatro lilium, seis claveles, una oriental, dos crisantemos y verdes variados",
+    "price": 40,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/cesta-primavera.webp",
+      "thumb": "/images/products/cesta-primavera-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cesta Primavera"
+    },
+    "images": [
+      {
+        "src": "/images/products/cesta-primavera.webp",
+        "thumb": "/images/products/cesta-primavera-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cesta Primavera"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 62,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5626",
+    "sku": "P-C.015",
+    "name": "Composición Plantas Hiedra",
+    "slug": "composicion-plantas-hiedra",
+    "shortDescription": "Kalanchoe, hiedra y dizygotheca",
+    "description": "Kalanchoe, hiedra y dizygotheca",
+    "price": 15,
+    "category": "plantas",
+    "subcategories": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/composicion-plantas-hiedra.webp",
+      "thumb": "/images/products/composicion-plantas-hiedra-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Composición Plantas Hiedra"
+    },
+    "images": [
+      {
+        "src": "/images/products/composicion-plantas-hiedra.webp",
+        "thumb": "/images/products/composicion-plantas-hiedra-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Composición Plantas Hiedra"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Naranja"
+    ],
+    "tags": [
+      "centros-plantas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 63,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5540",
+    "sku": "F-ZO.001",
+    "name": "Corazón Rojo",
+    "slug": "corazon-rojo",
+    "shortDescription": "Corazon de rosas y claveles blancos y rojos y verdes variados",
+    "description": "Corazon de rosas y claveles blancos y rojos y verdes variados",
+    "price": 100,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "corazones"
+    ],
+    "image": {
+      "src": "/images/products/corazon-rojo.webp",
+      "thumb": "/images/products/corazon-rojo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corazón Rojo"
+    },
+    "images": [
+      {
+        "src": "/images/products/corazon-rojo.webp",
+        "thumb": "/images/products/corazon-rojo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corazón Rojo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "corazones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 64,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5543",
+    "sku": "F-ZO.002",
+    "name": "Corazón Rosas",
+    "slug": "corazon-rosas",
+    "shortDescription": "Corazon integro de rosas blancas con paniculata y verdes variados",
+    "description": "Corazon integro de rosas blancas con paniculata y verdes variados",
+    "price": 195,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "corazones"
+    ],
+    "image": {
+      "src": "/images/products/corazon-rosas.webp",
+      "thumb": "/images/products/corazon-rosas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corazón Rosas"
+    },
+    "images": [
+      {
+        "src": "/images/products/corazon-rosas.webp",
+        "thumb": "/images/products/corazon-rosas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corazón Rosas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "corazones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 65,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P4866",
+    "sku": "F-CO.003",
+    "name": "Corona Basic",
+    "slug": "corona-basic",
+    "shortDescription": "Corona de lilium rosa, claveles blancos y verdes variados",
+    "description": "Corona de lilium rosa, claveles blancos y verdes variados",
+    "price": 160,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-basic.webp",
+      "thumb": "/images/products/corona-basic-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Basic"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-basic.webp",
+        "thumb": "/images/products/corona-basic-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Basic"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 66,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5499",
+    "sku": "F-CO.008",
+    "name": "Corona Cladiolos",
+    "slug": "corona-cladiolos",
+    "shortDescription": "Corona cabezal de cladiolo blanco y rosas rojas, aro de clavel blanco",
+    "description": "Corona cabezal de cladiolo blanco y rosas rojas, aro de clavel blanco",
+    "price": 210,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-cladiolos.webp",
+      "thumb": "/images/products/corona-cladiolos-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Cladiolos"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-cladiolos.webp",
+        "thumb": "/images/products/corona-cladiolos-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Cladiolos"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 67,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P3856",
+    "sku": "F-CO.004",
+    "name": "Corona Lilium",
+    "slug": "corona-lilium",
+    "shortDescription": "Corona de lilium y claveles blancos con verdes variados.",
+    "description": "Corona de lilium y claveles blancos con verdes variados",
+    "price": 170,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-lilium.webp",
+      "thumb": "/images/products/corona-lilium-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Lilium"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-lilium.webp",
+        "thumb": "/images/products/corona-lilium-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Lilium"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 68,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5505",
+    "sku": "F-CO.021",
+    "name": "Corona Mixta",
+    "slug": "corona-mixta",
+    "shortDescription": "Margaritas,claveles, lilium y rosas componen esta corona variada con verdes surtidos",
+    "description": "Margaritas,claveles, lilium y rosas componen esta corona variada con verdes surtidos",
+    "price": 320,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-mixta.webp",
+      "thumb": "/images/products/corona-mixta-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Mixta"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-mixta.webp",
+        "thumb": "/images/products/corona-mixta-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Mixta"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 69,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5498",
+    "sku": "F-CO.007",
+    "name": "Corona Multicolor",
+    "slug": "corona-multicolor",
+    "shortDescription": "Corona de flores surtidas con verdes variados",
+    "description": "Corona de flores surtidas con verdes variados",
+    "price": 200,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-multicolor.webp",
+      "thumb": "/images/products/corona-multicolor-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Multicolor"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-multicolor.webp",
+        "thumb": "/images/products/corona-multicolor-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Multicolor"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 70,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5504",
+    "sku": "F-CO.017",
+    "name": "Corona Pastel",
+    "slug": "corona-pastel",
+    "shortDescription": "Cabezal y aro en colores blancos y rosas muy suaves y verdes variados",
+    "description": "Cabezal y aro en colores blancos y rosas muy suaves y verdes variados",
+    "price": 280,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-pastel.webp",
+      "thumb": "/images/products/corona-pastel-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Pastel"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-pastel.webp",
+        "thumb": "/images/products/corona-pastel-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Pastel"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 71,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5500",
+    "sku": "F-CO.010",
+    "name": "Corona Perla",
+    "slug": "corona-perla",
+    "shortDescription": "Corona cabezal rosas rojas, aro de clavel blanco y verdes variados",
+    "description": "Corona cabezal rosas rojas, aro de clavel blanco y verdes variados",
+    "price": 230,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-perla.webp",
+      "thumb": "/images/products/corona-perla-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Perla"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-perla.webp",
+        "thumb": "/images/products/corona-perla-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Perla"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 72,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P3855",
+    "sku": "F-CO.005",
+    "name": "Corona Rayas",
+    "slug": "corona-rayas",
+    "shortDescription": "corona cabezal surtido con aro de claveles blancos y rosas a rayas",
+    "description": "Corona cabezal surtido con aro de claveles blancos y rosas a rayas",
+    "price": 180,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-rayas.webp",
+      "thumb": "/images/products/corona-rayas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Rayas"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-rayas.webp",
+        "thumb": "/images/products/corona-rayas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Rayas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 73,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5501",
+    "sku": "F-CO.011",
+    "name": "Corona Rosa",
+    "slug": "corona-rosa",
+    "shortDescription": "Cabezal de cladiolos y flores surtidas y aro de clavel rosa",
+    "description": "Cabezal de cladiolos y flores surtidas y aro de clavel rosa",
+    "price": 240,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-rosa.webp",
+      "thumb": "/images/products/corona-rosa-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Rosa"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-rosa.webp",
+        "thumb": "/images/products/corona-rosa-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Rosa"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 74,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5507",
+    "sku": "F-CO.029",
+    "name": "Corona Rosas Bicolor",
+    "slug": "corona-rosas-bicolor",
+    "shortDescription": "Corona integra de rosas rojas y blancas, cabezal de oriental blanco y rosas rojas.",
+    "description": "Corona integra de rosas rojas y blancas, cabezal de oriental blanco y rosas rojas",
+    "price": 600,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-rosas-bicolor.webp",
+      "thumb": "/images/products/corona-rosas-bicolor-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Rosas Bicolor"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-rosas-bicolor.webp",
+        "thumb": "/images/products/corona-rosas-bicolor-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Rosas Bicolor"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 75,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5509",
+    "sku": "F-CO.030",
+    "name": "Corona Rosas Excelent",
+    "slug": "corona-rosas-excelent",
+    "shortDescription": "Cabezal de oriental y lisiantus blanco, aro de rosas blancas y minicabezal blanco",
+    "description": "Cabezal de oriental y lisiantus blanco, aro de rosas blancas y minicabezal blanco",
+    "price": 600,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-rosas-excelent.webp",
+      "thumb": "/images/products/corona-rosas-excelent-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Rosas Excelent"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-rosas-excelent.webp",
+        "thumb": "/images/products/corona-rosas-excelent-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Rosas Excelent"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 76,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5506",
+    "sku": "F-CO.024",
+    "name": "Corona Select",
+    "slug": "corona-select",
+    "shortDescription": "Surtido cabezal de flores variadas, aro rojo y minicabezal blanco",
+    "description": "Surtido cabezal de flores variadas, aro rojo y minicabezal blanco",
+    "price": 350,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-select.webp",
+      "thumb": "/images/products/corona-select-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Select"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-select.webp",
+        "thumb": "/images/products/corona-select-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Select"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 77,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5503",
+    "sku": "F-CO.015",
+    "name": "Corona Standard",
+    "slug": "corona-standard",
+    "shortDescription": "Elegante cabezal de oriental blanco, rosas y gerveras rojas y aro de clavel blanco y rojo",
+    "description": "Elegante cabezal de oriental blanco, rosas y gerveras rojas y aro de clavel blanco y rojo",
+    "price": 270,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-standard.webp",
+      "thumb": "/images/products/corona-standard-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Standard"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-standard.webp",
+        "thumb": "/images/products/corona-standard-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Standard"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 78,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5584",
+    "sku": "F-CR.002",
+    "name": "Cruz Claveles",
+    "slug": "cruz-claveles",
+    "shortDescription": "Cruz de claveles, lilium, rosas blancas, margaritas y verdes variados",
+    "description": "Cruz de claveles, lilium, rosas blancas, margaritas y verdes variados",
+    "price": 170,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "cruces"
+    ],
+    "image": {
+      "src": "/images/products/cruz-claveles.webp",
+      "thumb": "/images/products/cruz-claveles-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cruz Claveles"
+    },
+    "images": [
+      {
+        "src": "/images/products/cruz-claveles.webp",
+        "thumb": "/images/products/cruz-claveles-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cruz Claveles"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "cruces"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 79,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5544",
+    "sku": "F-CR.001",
+    "name": "Cruz Claveles y Rosas",
+    "slug": "cruz-claveles-rosas",
+    "shortDescription": "Cruz de claveles blancos con linea de rosas rojas y verdes variados",
+    "description": "Cruz de claveles blancos con linea de rosas rojas y verdes variados",
+    "price": 190,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "cruces"
+    ],
+    "image": {
+      "src": "/images/products/cruz-claveles-rosas.webp",
+      "thumb": "/images/products/cruz-claveles-rosas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cruz Claveles y Rosas"
+    },
+    "images": [
+      {
+        "src": "/images/products/cruz-claveles-rosas.webp",
+        "thumb": "/images/products/cruz-claveles-rosas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cruz Claveles y Rosas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "cruces"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 80,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5583",
+    "sku": "F-CR.003",
+    "name": "Cruz Rosas",
+    "slug": "cruz-rosas",
+    "shortDescription": "Cruz de rosas blancas, lilium y verdes variados",
+    "description": "Cruz de rosas blancas, lilium y verdes variados",
+    "price": 260,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "cruces"
+    ],
+    "image": {
+      "src": "/images/products/cruz-rosas.webp",
+      "thumb": "/images/products/cruz-rosas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Cruz Rosas"
+    },
+    "images": [
+      {
+        "src": "/images/products/cruz-rosas.webp",
+        "thumb": "/images/products/cruz-rosas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Cruz Rosas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "cruces"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 81,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5508",
+    "sku": "F-CO.025",
+    "name": "Dama Blanca",
+    "slug": "corona-dama-blanca",
+    "shortDescription": "Elegante cabezal de oriental, alelies y rosas blancas, con aro en blanco y cobertura de verdes mix.",
+    "description": "Elegante cabezal de oriental, alelies y rosas blancas, con aro en blanco y cobertura de verdes mix",
+    "price": 360,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-dama-blanca.webp",
+      "thumb": "/images/products/corona-dama-blanca-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Dama Blanca"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-dama-blanca.webp",
+        "thumb": "/images/products/corona-dama-blanca-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Dama Blanca"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 82,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5627",
+    "sku": "P-IN.017",
+    "name": "Dracena Marginata",
+    "slug": "dracena-marginata",
+    "shortDescription": "",
+    "description": "",
+    "price": 10,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/dracena-marginata.webp",
+      "thumb": "/images/products/dracena-marginata-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Dracena Marginata"
+    },
+    "images": [
+      {
+        "src": "/images/products/dracena-marginata.webp",
+        "thumb": "/images/products/dracena-marginata-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Dracena Marginata"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 83,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5628",
+    "sku": "P-IN.019",
+    "name": "Ficus Elastica",
+    "slug": "ficus-elastica",
+    "shortDescription": "",
+    "description": "",
+    "price": 15.5,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/ficus-elastica.webp",
+      "thumb": "/images/products/ficus-elastica-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ficus Elastica"
+    },
+    "images": [
+      {
+        "src": "/images/products/ficus-elastica.webp",
+        "thumb": "/images/products/ficus-elastica-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ficus Elastica"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 84,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description",
+      "colors"
+    ]
+  },
+  {
+    "id": "P5636",
+    "sku": "P-OR.022",
+    "name": "Orquidea Phalaenopsis",
+    "slug": "orquidea-phalaenopsis-azul",
+    "shortDescription": "",
+    "description": "",
+    "price": 22,
+    "category": "plantas",
+    "subcategories": [
+      "plantas",
+      "orquideas"
+    ],
+    "image": {
+      "src": "/images/products/orquidea-phalaenopsis-azul.webp",
+      "thumb": "/images/products/orquidea-phalaenopsis-azul-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Orquidea Phalaenopsis"
+    },
+    "images": [
+      {
+        "src": "/images/products/orquidea-phalaenopsis-azul.webp",
+        "thumb": "/images/products/orquidea-phalaenopsis-azul-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Orquidea Phalaenopsis"
+      }
+    ],
+    "available": true,
+    "featured": true,
+    "colors": [
+      "Azul"
+    ],
+    "tags": [
+      "orquideas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 85,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5637",
+    "sku": "P-OR.023",
+    "name": "Orquidea Phalaenopsis",
+    "slug": "orquidea-phalaenopsis-rosa",
+    "shortDescription": "",
+    "description": "",
+    "price": 16.9,
+    "category": "plantas",
+    "subcategories": [
+      "plantas",
+      "orquideas"
+    ],
+    "image": {
+      "src": "/images/products/orquidea-phalaenopsis-rosa.webp",
+      "thumb": "/images/products/orquidea-phalaenopsis-rosa-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Orquidea Phalaenopsis"
+    },
+    "images": [
+      {
+        "src": "/images/products/orquidea-phalaenopsis-rosa.webp",
+        "thumb": "/images/products/orquidea-phalaenopsis-rosa-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Orquidea Phalaenopsis"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa"
+    ],
+    "tags": [
+      "orquideas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 86,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5629",
+    "sku": "P-OR.020",
+    "name": "Orquidea Phalaenopsis",
+    "slug": "orquidea-phalaenopsis",
+    "shortDescription": "",
+    "description": "",
+    "price": 16.9,
+    "category": "plantas",
+    "subcategories": [
+      "plantas",
+      "orquideas"
+    ],
+    "image": {
+      "src": "/images/products/orquidea-phalaenopsis.webp",
+      "thumb": "/images/products/orquidea-phalaenopsis-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Orquidea Phalaenopsis"
+    },
+    "images": [
+      {
+        "src": "/images/products/orquidea-phalaenopsis.webp",
+        "thumb": "/images/products/orquidea-phalaenopsis-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Orquidea Phalaenopsis"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "orquideas",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 87,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5786",
+    "sku": "OC-EN.111",
+    "name": "Peluche con Orquídea",
+    "slug": "peluche-orquidea",
+    "shortDescription": "Composición de orquídea, peluche y verdes variados",
+    "description": "Composición de orquídea, peluche y verdes variados",
+    "price": 15,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/peluche-orquidea.webp",
+      "thumb": "/images/products/peluche-orquidea-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Peluche con Orquídea"
+    },
+    "images": [
+      {
+        "src": "/images/products/peluche-orquidea.webp",
+        "thumb": "/images/products/peluche-orquidea-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Peluche con Orquídea"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo",
+      "Violeta"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 88,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5649",
+    "sku": "OC-N.037",
+    "name": "Pinos Decorados",
+    "slug": "pinos-decorados",
+    "shortDescription": "",
+    "description": "",
+    "price": 6,
+    "category": "ocasiones",
+    "subcategories": [
+      "navidad",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/pinos-decorados.webp",
+      "thumb": "/images/products/pinos-decorados-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Pinos Decorados"
+    },
+    "images": [
+      {
+        "src": "/images/products/pinos-decorados.webp",
+        "thumb": "/images/products/pinos-decorados-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Pinos Decorados"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "navidad",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Navidad"
+    ],
+    "order": 89,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5539",
+    "sku": "F-RA.007",
+    "name": "Ramo Blanco",
+    "slug": "ramo-blanco",
+    "shortDescription": "Ramo surtido de flores blancas con toque de rosas rosas",
+    "description": "Ramo surtido de flores blancas con toque de rosas rosas",
+    "price": 140,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-blanco.webp",
+      "thumb": "/images/products/ramo-blanco-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Blanco"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-blanco.webp",
+        "thumb": "/images/products/ramo-blanco-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Blanco"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 90,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5528",
+    "sku": "F-RA.001",
+    "name": "Ramo Blanco y Amarillo",
+    "slug": "ramo-blanco-amarillo",
+    "shortDescription": "Ramo de cladiolo y margarita blancos, lilium amarillo y rosas rosa",
+    "description": "Ramo de cladiolo y margarita blancos, lilium amarillo y rosas rosas",
+    "price": 85,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-blanco-amarillo.webp",
+      "thumb": "/images/products/ramo-blanco-amarillo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Blanco y Amarillo"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-blanco-amarillo.webp",
+        "thumb": "/images/products/ramo-blanco-amarillo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Blanco y Amarillo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 91,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5750",
+    "sku": "OC-RE.084",
+    "name": "Ramo Cartagena",
+    "slug": "ramo-cartagena",
+    "shortDescription": "",
+    "description": "Composición de cuatro crisantemos, cuatro lilium, dos astromelias, una strlitzia, seis rosas, dos calas y verdes",
+    "price": 50,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-cartagena.webp",
+      "thumb": "/images/products/ramo-cartagena-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Cartagena"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-cartagena.webp",
+        "thumb": "/images/products/ramo-cartagena-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Cartagena"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 92,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription"
+    ]
+  },
+  {
+    "id": "P5787",
+    "sku": "OC-EN.112",
+    "name": "Ramo de Rosas con Peluche",
+    "slug": "ramo-rosas-peluche",
+    "shortDescription": "Composición de dos docenas de rosas, peluche y verdes variados",
+    "description": "Composición de dos docenas de rosas, peluche y verdes variados",
+    "price": 95,
+    "category": "ocasiones",
+    "subcategories": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-peluche.webp",
+      "thumb": "/images/products/ramo-rosas-peluche-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo de Rosas con Peluche"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-peluche.webp",
+        "thumb": "/images/products/ramo-rosas-peluche-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo de Rosas con Peluche"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rosa"
+    ],
+    "tags": [
+      "enamorados",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Enamorados"
+    ],
+    "order": 93,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5733",
+    "sku": "OC-RE.068",
+    "name": "Ramo Gerberas Mimoso",
+    "slug": "ramo-gerberas-mimoso",
+    "shortDescription": "Dieciocho gerberas variadas y verdes",
+    "description": "Dieciocho gerberas variadas y verdes",
+    "price": 30,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-gerberas-mimoso.webp",
+      "thumb": "/images/products/ramo-gerberas-mimoso-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Gerberas Mimoso"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-gerberas-mimoso.webp",
+        "thumb": "/images/products/ramo-gerberas-mimoso-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Gerberas Mimoso"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 94,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5747",
+    "sku": "OC-RE.081",
+    "name": "Ramo Habana",
+    "slug": "ramo-habana",
+    "shortDescription": "Composición de cuatro rosas, ocho crisantemos, cuatro gerberas, cinco lilium y verdes",
+    "description": "Composición de cuatro rosas, ocho crisantemos, cuatro gerberas, cinco lilium y verdes",
+    "price": 45,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-habana.webp",
+      "thumb": "/images/products/ramo-habana-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Habana"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-habana.webp",
+        "thumb": "/images/products/ramo-habana-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Habana"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 95,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5536",
+    "sku": "F-RA.004",
+    "name": "Ramo Lilium",
+    "slug": "ramo-lillium",
+    "shortDescription": "Ramo de lilium amarillo, cladiolo, margaritas y rosas blancas",
+    "description": "Ramo de lilium amarillo, cladiolo, margaritas y rosas blancas",
+    "price": 110,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-lillium.webp",
+      "thumb": "/images/products/ramo-lillium-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Lilium"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-lillium.webp",
+        "thumb": "/images/products/ramo-lillium-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Lilium"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 96,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5748",
+    "sku": "OC-RE.082",
+    "name": "Ramo Maldivas",
+    "slug": "ramo-maldivas",
+    "shortDescription": "Composición de seis rosas, dos anastasias, tres solidalgo, tres lilium, tres girasoles, dos crisantemos, seis claveles y verdes variados",
+    "description": "Composición de seis rosas, dos anastasias, tres solidalgo, tres lilium, tres girasoles, dos crisantemos, seis claveles y verdes variados",
+    "price": 50,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-maldivas.webp",
+      "thumb": "/images/products/ramo-maldivas-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Maldivas"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-maldivas.webp",
+        "thumb": "/images/products/ramo-maldivas-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Maldivas"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 97,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5746",
+    "sku": "OC-RE.080",
+    "name": "Ramo Minerva",
+    "slug": "ramo-minerva",
+    "shortDescription": "Composición de ocho rosas, seis crisantemos, seis orientales y verdes variados",
+    "description": "Composición de ocho rosas, seis crisantemos, seis orientales y verdes variados",
+    "price": 65,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-minerva.webp",
+      "thumb": "/images/products/ramo-minerva-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Minerva"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-minerva.webp",
+        "thumb": "/images/products/ramo-minerva-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Minerva"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 98,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5538",
+    "sku": "F-RA.006",
+    "name": "Ramo Mixto",
+    "slug": "ramo-mixto",
+    "shortDescription": "Ramo de flores variadas con paniculata y verde",
+    "description": "Ramo de flores variadas con paniculata y verde",
+    "price": 130,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-mixto.webp",
+      "thumb": "/images/products/ramo-mixto-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Mixto"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-mixto.webp",
+        "thumb": "/images/products/ramo-mixto-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Mixto"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Naranja",
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 99,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5537",
+    "sku": "F-RA.005",
+    "name": "Ramo Rojo",
+    "slug": "ramo-rojo",
+    "shortDescription": "Ramo de lilium rojo y naranja, rosas, margaritas y cladiolos blancos",
+    "description": "Ramo de lilium rojo y naranja, rosas, margaritas y cladiolos blancos",
+    "price": 120,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rojo.webp",
+      "thumb": "/images/products/ramo-rojo-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rojo"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rojo.webp",
+        "thumb": "/images/products/ramo-rojo-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rojo"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Naranja",
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 100,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5535",
+    "sku": "F-RA.002",
+    "name": "Ramo Rosa y Blanco",
+    "slug": "ramo-rosa-blanco",
+    "shortDescription": "Ramo de cladiolos y margaritas blancas y lilium,rosas y margaritas rosas",
+    "description": "ramo de cladiolos y margaritas blancas y lilium,rosas y margaritas rosas",
+    "price": 95,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios-ramos",
+      "funerarios"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosa-blanco.webp",
+      "thumb": "/images/products/ramo-rosa-blanco-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosa y Blanco"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosa-blanco.webp",
+        "thumb": "/images/products/ramo-rosa-blanco-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosa y Blanco"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rosa"
+    ],
+    "tags": [
+      "ramos-funerarios"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 101,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5695",
+    "sku": "FL-R.058",
+    "name": "Ramo Rosas Ares",
+    "slug": "ramo-rosas-ares",
+    "shortDescription": "Una Rosa decorada con paniculata y verdes",
+    "description": "Seis rosas decoradas con paniculata y verdes",
+    "price": 25,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-ares.webp",
+      "thumb": "/images/products/ramo-rosas-ares-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Ares"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-ares.webp",
+        "thumb": "/images/products/ramo-rosas-ares-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Ares"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 102,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5699",
+    "sku": "FL-R.062",
+    "name": "Ramo Rosas Bali",
+    "slug": "ramo-rosas-bali",
+    "shortDescription": "Doce Rosas variadas y verdes",
+    "description": "Doce Rosas variadas y verdes",
+    "price": 45,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-bali.webp",
+      "thumb": "/images/products/ramo-rosas-bali-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Bali"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-bali.webp",
+        "thumb": "/images/products/ramo-rosas-bali-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Bali"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Naranja",
+      "Rojo",
+      "Rosa"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 103,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5698",
+    "sku": "FL-R.061",
+    "name": "Ramo Rosas Cora",
+    "slug": "ramo-rosas-cora",
+    "shortDescription": "Dieciocho rosas decoradas con paniculata y verdes",
+    "description": "Dieciocho rosas decoradas con paniculata y verdes",
+    "price": 65,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-cora.webp",
+      "thumb": "/images/products/ramo-rosas-cora-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Cora"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-cora.webp",
+        "thumb": "/images/products/ramo-rosas-cora-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Cora"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 104,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5697",
+    "sku": "FL-R.060",
+    "name": "Ramo Rosas Elma",
+    "slug": "ramo-rosas-elma",
+    "shortDescription": "Veintiocho rosas decoradas con paniculata y verdes",
+    "description": "Veintiocho rosas decoradas con paniculata y verdes",
+    "price": 90,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-elma.webp",
+      "thumb": "/images/products/ramo-rosas-elma-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Elma"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-elma.webp",
+        "thumb": "/images/products/ramo-rosas-elma-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Elma"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 105,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5686",
+    "sku": "FL-R.051",
+    "name": "Ramo Rosas Morgana",
+    "slug": "ramo-rosas-morgana",
+    "shortDescription": "Cuatro docenas de rosas variadas con verdes",
+    "description": "Cuatro docenas de rosas variadas con verdes",
+    "price": 155,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-morgana.webp",
+      "thumb": "/images/products/ramo-rosas-morgana-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Morgana"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-morgana.webp",
+        "thumb": "/images/products/ramo-rosas-morgana-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Morgana"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 106,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5696",
+    "sku": "FL-R.059",
+    "name": "Ramo Rosas Noha",
+    "slug": "ramo-rosas-noha",
+    "shortDescription": "Doce rosas decoradas con paniculata y verdes",
+    "description": "Doce rosas decoradas con paniculata y verdes",
+    "price": 45,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-noha.webp",
+      "thumb": "/images/products/ramo-rosas-noha-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Noha"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-noha.webp",
+        "thumb": "/images/products/ramo-rosas-noha-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Noha"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 107,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5693",
+    "sku": "FL-R.056",
+    "name": "Ramo Rosas Poema",
+    "slug": "ramo-rosas-poema",
+    "shortDescription": "Ramo compuesto por diez rosas, paniculata y verdes",
+    "description": "Ramo compuesto por diez rosas, paniculata y verdes",
+    "price": 40,
+    "category": "flores",
+    "subcategories": [
+      "ramos-flores",
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/ramo-rosas-poema.webp",
+      "thumb": "/images/products/ramo-rosas-poema-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Rosas Poema"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-rosas-poema.webp",
+        "thumb": "/images/products/ramo-rosas-poema-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Rosas Poema"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Amarillo",
+      "Blanco"
+    ],
+    "tags": [
+      "ramos-flores",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 108,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5741",
+    "sku": "OC-RE.075",
+    "name": "Ramo Tornasol",
+    "slug": "ramo-tornasol",
+    "shortDescription": "Composición de siete girasoles, tres margaritas, dos rosas y tres solidalgo",
+    "description": "Composición de siete girasoles, tres margaritas, dos rosas y tres solidalgo",
+    "price": 35,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-tornasol.webp",
+      "thumb": "/images/products/ramo-tornasol-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Tornasol"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-tornasol.webp",
+        "thumb": "/images/products/ramo-tornasol-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Tornasol"
+      }
+    ],
+    "available": true,
+    "featured": true,
+    "colors": [
+      "Amarillo",
+      "Blanco",
+      "Violeta"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 109,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5749",
+    "sku": "OC-RE.083",
+    "name": "Ramo Venecia",
+    "slug": "ramo-venecia",
+    "shortDescription": "Composición de cinco rosas, seis lilium y verdes variados",
+    "description": "Composición de cinco rosas, seis lilium y verdes variados",
+    "price": 35,
+    "category": "ocasiones",
+    "subcategories": [
+      "ocasiones",
+      "regalo"
+    ],
+    "image": {
+      "src": "/images/products/ramo-venecia.webp",
+      "thumb": "/images/products/ramo-venecia-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Ramo Venecia"
+    },
+    "images": [
+      {
+        "src": "/images/products/ramo-venecia.webp",
+        "thumb": "/images/products/ramo-venecia-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Ramo Venecia"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco",
+      "Rojo"
+    ],
+    "tags": [
+      "ocasiones",
+      "regalo"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Regalo"
+    ],
+    "order": 110,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5691",
+    "sku": "FL-R.054",
+    "name": "Rosa Corazón",
+    "slug": "rosa-corazon",
+    "shortDescription": "Rosa decorada con paniculata hoja chico y bouquet corazón",
+    "description": "Rosa decorada con paniculata hoja chico y bouquet corazón",
+    "price": 7,
+    "category": "flores",
+    "subcategories": [
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-corazon.webp",
+      "thumb": "/images/products/rosa-corazon-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Corazón"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-corazon.webp",
+        "thumb": "/images/products/rosa-corazon-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Corazón"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 111,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5694",
+    "sku": "FL-R.057",
+    "name": "Rosa decorada",
+    "slug": "rosa-decorada",
+    "shortDescription": "Una Rosa decorada con paniculata y verdes",
+    "description": "Una Rosa decorada con paniculata y verdes",
+    "price": 5,
+    "category": "flores",
+    "subcategories": [
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-decorada.webp",
+      "thumb": "/images/products/rosa-decorada-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa decorada"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-decorada.webp",
+        "thumb": "/images/products/rosa-decorada-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa decorada"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 112,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5685",
+    "sku": "FL-R.050",
+    "name": "Rosa Individual Spider",
+    "slug": "rosa-spider",
+    "shortDescription": "Rosa decorada con verdes variados, paniculata y malla",
+    "description": "Rosa decorada con verdes variados, paniculata y malla",
+    "price": 6,
+    "category": "flores",
+    "subcategories": [
+      "rosas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-spider.webp",
+      "thumb": "/images/products/rosa-spider-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Individual Spider"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-spider.webp",
+        "thumb": "/images/products/rosa-spider-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Individual Spider"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 113,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5664",
+    "sku": "FL-R.045",
+    "name": "Rosa Preservada Caja",
+    "slug": "rosa-preservada-caja",
+    "shortDescription": "",
+    "description": "",
+    "price": 8.5,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-caja.webp",
+      "thumb": "/images/products/rosa-preservada-caja-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Caja"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-caja.webp",
+        "thumb": "/images/products/rosa-preservada-caja-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Caja"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 114,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5665",
+    "sku": "FL-R.046",
+    "name": "Rosa Preservada Caja",
+    "slug": "rosa-preservada-caja-2",
+    "shortDescription": "",
+    "description": "",
+    "price": 14,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-caja-2.webp",
+      "thumb": "/images/products/rosa-preservada-caja-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Caja"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-caja-2.webp",
+        "thumb": "/images/products/rosa-preservada-caja-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Caja"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Multicolor"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 115,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5650",
+    "sku": "FL-R.040",
+    "name": "Rosa Preservada Cúpula",
+    "slug": "rosa-preservada-cupula",
+    "shortDescription": "",
+    "description": "",
+    "price": 25,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-cupula.webp",
+      "thumb": "/images/products/rosa-preservada-cupula-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Cúpula"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-cupula.webp",
+        "thumb": "/images/products/rosa-preservada-cupula-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Cúpula"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 116,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5666",
+    "sku": "FL-R.048",
+    "name": "Rosa Preservada Cúpula",
+    "slug": "rosa-preservada-cupula-2",
+    "shortDescription": "",
+    "description": "",
+    "price": 32,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-cupula-2.webp",
+      "thumb": "/images/products/rosa-preservada-cupula-2-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Cúpula"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-cupula-2.webp",
+        "thumb": "/images/products/rosa-preservada-cupula-2-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Cúpula"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 117,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5662",
+    "sku": "FL-R.043",
+    "name": "Rosa Preservada Farol",
+    "slug": "rosa-preservada-farol",
+    "shortDescription": "",
+    "description": "",
+    "price": 32,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-farol.webp",
+      "thumb": "/images/products/rosa-preservada-farol-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Farol"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-farol.webp",
+        "thumb": "/images/products/rosa-preservada-farol-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Farol"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 118,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5660",
+    "sku": "FL-R.041",
+    "name": "Rosa Preservada Quesera",
+    "slug": "rosa-preservada-quesera",
+    "shortDescription": "",
+    "description": "",
+    "price": 14,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosa-preservada-quesera.webp",
+      "thumb": "/images/products/rosa-preservada-quesera-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosa Preservada Quesera"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosa-preservada-quesera.webp",
+        "thumb": "/images/products/rosa-preservada-quesera-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosa Preservada Quesera"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 119,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5661",
+    "sku": "FL-R.042",
+    "name": "Rosmelia Preservada Cúpula",
+    "slug": "rosmelia-preservada-cupula",
+    "shortDescription": "",
+    "description": "",
+    "price": 35,
+    "category": "flores",
+    "subcategories": [
+      "preservadas",
+      "flores"
+    ],
+    "image": {
+      "src": "/images/products/rosmelia-preservada-cupula.webp",
+      "thumb": "/images/products/rosmelia-preservada-cupula-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Rosmelia Preservada Cúpula"
+    },
+    "images": [
+      {
+        "src": "/images/products/rosmelia-preservada-cupula.webp",
+        "thumb": "/images/products/rosmelia-preservada-cupula-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Rosmelia Preservada Cúpula"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "preservado",
+      "rosas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 120,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description"
+    ]
+  },
+  {
+    "id": "P5638",
+    "sku": "P-IN.025",
+    "name": "Sansevieria",
+    "slug": "sansevieria",
+    "shortDescription": "",
+    "description": "",
+    "price": 8.5,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/sansevieria.webp",
+      "thumb": "/images/products/sansevieria-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Sansevieria"
+    },
+    "images": [
+      {
+        "src": "/images/products/sansevieria.webp",
+        "thumb": "/images/products/sansevieria-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Sansevieria"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 121,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description",
+      "colors"
+    ]
+  },
+  {
+    "id": "P5767",
+    "sku": "OC-NA.098",
+    "name": "Tartas Bebé",
+    "slug": "tartas-bebe",
+    "shortDescription": "",
+    "description": "",
+    "price": 25,
+    "category": "ocasiones",
+    "subcategories": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "image": {
+      "src": "/images/products/tartas-bebe.webp",
+      "thumb": "/images/products/tartas-bebe-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Tartas Bebé"
+    },
+    "images": [
+      {
+        "src": "/images/products/tartas-bebe.webp",
+        "thumb": "/images/products/tartas-bebe-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Tartas Bebé"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [],
+    "tags": [
+      "nacimiento",
+      "ocasiones"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [
+      "Nacimiento"
+    ],
+    "order": 122,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description",
+      "colors"
+    ]
+  },
+  {
+    "id": "P5639",
+    "sku": "P-IN.028",
+    "name": "Tronco de Brasil",
+    "slug": "tronco-brasil",
+    "shortDescription": "",
+    "description": "",
+    "price": 15,
+    "category": "plantas",
+    "subcategories": [
+      "interior",
+      "plantas"
+    ],
+    "image": {
+      "src": "/images/products/tronco-brasil.webp",
+      "thumb": "/images/products/tronco-brasil-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Tronco de Brasil"
+    },
+    "images": [
+      {
+        "src": "/images/products/tronco-brasil.webp",
+        "thumb": "/images/products/tronco-brasil-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Tronco de Brasil"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [],
+    "tags": [
+      "interior",
+      "plantas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 123,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season",
+      "shortDescription",
+      "description",
+      "colors"
+    ]
+  },
+  {
+    "id": "P5040",
+    "sku": "F-CO.001",
+    "name": "Corona Blanca",
+    "slug": "corona-blanca",
+    "shortDescription": "Corona cabezal margaritas blancas y claveles rojos y aro clavel blanco con verdes variados.",
+    "description": "Corona cabezal margaritas blancas y claveles rojos y aro clavel blanco con verdes variados.",
+    "price": 150,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-blanca.webp",
+      "thumb": "/images/products/corona-blanca-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Blanca"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-blanca.webp",
+        "thumb": "/images/products/corona-blanca-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Blanca"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Blanco"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 124,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  },
+  {
+    "id": "P5033",
+    "sku": "F-CO.002",
+    "name": "Corona Roja",
+    "slug": "corona-roja",
+    "shortDescription": "Corona cabezal margaritas y claveles blancas, aro rojo y verdes variados",
+    "description": "Corona cabezal margaritas y claveles blancas, aro rojo y verdes variados",
+    "price": 150,
+    "category": "funerarios",
+    "subcategories": [
+      "funerarios",
+      "coronas"
+    ],
+    "image": {
+      "src": "/images/products/corona-roja.webp",
+      "thumb": "/images/products/corona-roja-sm.webp",
+      "width": 900,
+      "height": 1161,
+      "alt": "Corona Roja"
+    },
+    "images": [
+      {
+        "src": "/images/products/corona-roja.webp",
+        "thumb": "/images/products/corona-roja-sm.webp",
+        "width": 900,
+        "height": 1161,
+        "alt": "Corona Roja"
+      }
+    ],
+    "available": true,
+    "featured": false,
+    "colors": [
+      "Rojo"
+    ],
+    "tags": [
+      "coronas"
+    ],
+    "dimensions": null,
+    "season": null,
+    "occasion": [],
+    "order": 125,
+    "seoTitle": null,
+    "seoDescription": null,
+    "updatedAt": null,
+    "pendingFields": [
+      "dimensions",
+      "season"
+    ]
+  }
+]
