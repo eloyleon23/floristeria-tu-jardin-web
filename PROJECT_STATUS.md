@@ -1,24 +1,25 @@
 # Estado del proyecto
 
-**FASE ACTUAL:** Fase 0 — Auditoría y arquitectura
-**ESTADO:** ENTREGADO — PENDIENTE DE APROBACIÓN
+**FASE ACTUAL:** Fase 1 — Reconstrucción visual
+**ESTADO:** EN REVISIÓN — PENDIENTE DE APROBACIÓN
 
 **COMPLETADO:**
-- Audit de la web actual (`AUDIT_WEB_ACTUAL.md`)
-- Inventario de 126 productos (`docs/audit/inventario-productos.csv`)
-- Listado de 239 URLs indexadas (`docs/audit/urls-actuales.csv`)
-- Propuesta de arquitectura (`ARQUITECTURA_NUEVA.md`)
-- Repositorio `eloyleon23/floristeria-tu-jardin-web` con ramas `main` y `preproduccion`
-- Plan por fases (`PLAN_IMPLEMENTACION.md`)
+- Fase 0: audit, arquitectura y plan (aprobado)
+- Fase 1: web completa navegable (172 páginas estáticas), ver [docs/fase-1.md](docs/fase-1.md)
+- CI (lint, tipos, unitarios, build, e2e) y despliegue automático de `main` a GitHub Pages (preproducción)
 
 **PENDIENTE:**
-- Aprobación del audit y de la arquitectura
-- Configurar protección de ramas `main` y `preproduccion` en GitHub (Settings → Branches; requiere permisos de administrador)
-- Respuestas a la sección 13 del audit (información pendiente de confirmar)
+- Revisión visual y aprobación de la Fase 1
+- Activar GitHub Pages con origen "GitHub Actions" (Settings → Pages)
+- Configurar protección de la rama `main` (PR obligatoria + check "CI")
+- Información pendiente de confirmar (docs/fase-1.md §6)
 
 **BLOQUEOS:**
-- Licencia de la fuente Recoleta sin confirmar.
-- Tipo de hosting / acceso de despliegue sin confirmar.
+- Tipo de hosting / acceso de despliegue de producción sin confirmar (no bloquea la Fase 2)
 
-**ÚLTIMO COMMIT:** —
+**DECISIONES:**
+- Fraunces sustituye a Recoleta (sin licencia web)
+- `main` hace de preproducción mientras no haya servidor de producción (docs/ramas.md)
+
+**ÚLTIMO COMMIT:** ver historial de `main`
 **ÚLTIMA RELEASE:** —

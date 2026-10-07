@@ -1,6 +1,6 @@
 # Arquitectura nueva — Floristería Tu Jardín
 
-> Estado: **PROPUESTA** pendiente de aprobación. Basada en [AUDIT_WEB_ACTUAL.md](AUDIT_WEB_ACTUAL.md).
+> Estado: **APROBADA** (Fase 0). Basada en [AUDIT_WEB_ACTUAL.md](AUDIT_WEB_ACTUAL.md). Tipografía: Fraunces (decisión del cliente, sin licencia de Recoleta).
 
 ## 1. Decisión principal
 

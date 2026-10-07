@@ -1,7 +1,7 @@
 # Roadmap
 
 - [x] Auditoría web actual
-- [ ] Fase 1 - Reconstrucción visual
+- [ ] Fase 1 - Reconstrucción visual — *en revisión*
 - [ ] Fase 2 - Google Sheets / Drive / Brevo
 - [ ] Fase 3 - JSON / Apps Script
 - [ ] Fase 4 - GitHub / Preproducción
